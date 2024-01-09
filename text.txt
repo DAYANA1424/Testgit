@@ -1,0 +1,1 @@
+The modern data center has changed from what it was a decade or two ago on a number of fronts. We no longer live in a world where the number of machines can be counted on a couple of hands and maybe a foot, and we now measure in megawatts, rendering a unit count pretty useless.
